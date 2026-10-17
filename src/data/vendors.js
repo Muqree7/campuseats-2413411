@@ -1,16 +1,16 @@
 const vendors = [
  {
  id: 'my-restaurant',
- name: 'Your Restaurant Name',
- location: 'Mahallah ..., Block ...',
+ name: 'Kafe Mahallah Bilal',
+ location: 'Mahallah Bilal, Ground Floor',
  openHours: '7:00 am - 10:00 pm',
  isOpen: true,
  menu: [
- { id: 'my-1', name: 'Dish 1', description: '...', price: 7.5, category: 'Rice',
+ { id: 'my-1', name: 'Nasi Ayam Gepuk', description: 'Crispy Fried Chicken with rice, nut sauce and spicy sambal', price: 7.5, category: 'Rice',
 available: true },
- { id: 'my-2', name: 'Dish 2', description: '...', price: 6, category:
+ { id: 'my-2', name: 'Shawarma Ayam', description: 'Grilled chicken wrap with fresh veggies and garlic sauce.', price: 6, category:
 'Noodles', available: true },
- { id: 'my-3', name: 'Drink 1', description: '...', price: 2.5, category:
+ { id: 'my-3', name: 'Teh Ais', description: 'Sweet, creamy Malaysian iced milk tea.', price: 2.5, category:
 'Drinks', available: false },
  ],
  },
