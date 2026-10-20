@@ -26,7 +26,7 @@ function App() {
         <section>
           <h2 className="section-title">Choose a vendor</h2>
 
-          <div className="vendor-grid">
+          <div className="grid">
             {vendors.map((vendor) => (
               <VendorCard
                 key={vendor.id}
