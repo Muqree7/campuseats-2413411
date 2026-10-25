@@ -1,4 +1,4 @@
-Credit: Vendors 2 is from 2413411
+Credit: Vendor 2 is from 2417645
 
 # React + Vite
 
