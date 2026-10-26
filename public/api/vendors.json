@@ -154,83 +154,83 @@
     ]
   },
   {
-    "id": "2413411-kafe-aminah",
-    "name": "Kafe Mahallah Aminah",
-    "location": "Mahallah Aminah, Ground Floor",
-    "openHours": "8:00 am - 9:00 pm",
+    "id": "2415665-kafe-panda",
+    "name": "Panda",
+    "location": "Mahallah Siddiq, Gombak",
+    "openHours": "7:00 am - 7:00 am",
     "isOpen": true,
     "menu": [
       {
-        "id": "2413411-ami-1",
-        "name": "Nasi Ayam Penyet",
-        "description": "Smashed fried chicken with sambal and rice",
-        "price": 9.0,
+        "id": "2415665-pa-1",
+        "name": "Nasi Ayam Hainan",
+        "description": "Smoke chicken with sambal, soup, cucumber and rice",
+        "price": 7.0,
         "category": "Rice",
         "available": true,
         "popular": true
       },
       {
-        "id": "2413411-ami-2",
-        "name": "Nasi Lemak Special",
-        "description": "Fragrant coconut rice with fried egg, anchovies, peanuts, and sambal",
-        "price": 5.0,
+        "id": "2415665-pa-2",
+        "name": "Nasi Lemak Daging Rendang",
+        "description": "Fragrant pandan rice with daging rendang, nuts, cucumber and quarter of egg",
+        "price": 6.0,
         "category": "Rice",
         "available": true,
         "popular": true
       },
       {
-        "id": "2413411-ami-3",
-        "name": "Mee Goreng Mamak",
-        "description": "Spicy fried yellow noodles with potatoes, tofu, and eggs",
-        "price": 6.5,
-        "category": "Noodles",
-        "available": true,
-        "popular": false
-      },
-      {
-        "id": "2413411-ami-4",
-        "name": "Kuey Teow Goreng",
-        "description": "Flat rice noodles stir-fried with beansprouts and chives",
-        "price": 6.5,
-        "category": "Noodles",
-        "available": true,
-        "popular": false
-      },
-      {
-        "id": "2413411-ami-5",
-        "name": "Air Bandung",
-        "description": "Rose syrup with condensed and evaporated milk",
-        "price": 3.0,
-        "category": "Drinks",
-        "available": true,
-        "popular": true
-      },
-      {
-        "id": "2413411-ami-6",
-        "name": "Nescafe O",
-        "description": "Hot black instant coffee with sugar",
-        "price": 2.5,
-        "category": "Drinks",
-        "available": true,
-        "popular": false
-      },
-      {
-        "id": "2413411-ami-7",
-        "name": "Jus Mangga",
-        "description": "Freshly blended sweet mango juice",
-        "price": 4.5,
-        "category": "Drinks",
-        "available": true,
-        "popular": false
-      },
-      {
-        "id": "2413411-ami-8",
-        "name": "Roti Canai",
-        "description": "Flaky flatbread served with dhal and curry",
-        "price": 2.0,
+        "id": "2415665-pa-3",
+        "name": "Nasi Kandar",
+        "description": "steamed rice served with fried chicken, egg and mix of variety of curry",
+        "price": 8.0,
         "category": "Bakery",
         "available": true,
         "popular": true
+      },
+      {
+        "id": "2415665-pa-4",
+        "name": "Mee Tarik Chinese",
+        "description": "Spicy fried yellow noodles with 5 slide of meat and soup with sauce",
+        "price": 7.5,
+        "category": "Noodles",
+        "available": true,
+        "popular": false
+      },
+      {
+        "id": "2415665-pa-5",
+        "name": "Char kuey Tiaw",
+        "description": "Flat rice noodles stir-fried with 3 piece of prawn and clam",
+        "price": 7.0,
+        "category": "Noodles",
+        "available": true,
+        "popular": false
+      },
+      {
+        "id": "2415665-pa-6",
+        "name": "Teh Tarik",
+        "description": "Rich milk tea made from strong black tea",
+        "price": 2.50,
+        "category": "Drinks",
+        "available": true,
+        "popular": false
+      },
+      {
+        "id": "2415665-pa-7",
+        "name": "Extra Joss Anggur",
+        "description": "Grape-flavored energy drink powder with milk",
+        "price": 3.5,
+        "category": "Drinks",
+        "available": true,
+        "popular": true
+      },
+      {
+        "id": "2415665-pa-8",
+        "name": "Jus Tembikai",
+        "description": "Freshly blended watermelon juice",
+        "price": 4.0,
+        "category": "Drinks",
+        "available": true,
+        "popular": false
       }
     ]
   }
